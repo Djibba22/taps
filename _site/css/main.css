@@ -1,5 +1,5 @@
 /**
- * Reset some basic elements
+ * Reset me basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -465,7 +465,7 @@ pre {
   left: 0px;
   top: 556px;
   z-index: -1;
-  height: 250px;
+  height: 400px;
   width: 100%; }
 
 .interior {

@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
  Host a Party |  Member Rewards |  Investment Opportunities |  Employment Application
 baseurl: "/taps" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Taps_WinterPark
+facebook_username: TAPSWinterPark
 
 # Build settings
 markdown: kramdown
