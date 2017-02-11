@@ -2,9 +2,9 @@
 
 ## This is a WebSite redesign proposal for the local bar and restaurant
 
-*Technologies include:*
+*Technologies Include:*
 ___
-*HTML
-*Vanilla Javascript
-*CSS
-*SASS
+* HTML
+* Vanilla Javascript
+* CSS
+* SASS
